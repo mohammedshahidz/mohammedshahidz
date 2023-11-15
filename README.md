@@ -1,16 +1,30 @@
-### Hi there 👋
+# Cybersecurity Enthusiast 👨‍💻
 
-<!--
-**mohammedshahidz/mohammedshahidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 I'm Mohammed Shahid, a passionate cybersecurity enthusiast and an undergraduate student at Christ Academy Institute Of Advanced Studies.
 
-Here are some ideas to get you started:
+ 🌐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing my Bachelor's degree in BCA at Christ Academy Institute Of Advanced Studies.
+- 💼 Aspiring to make a mark in the field of cybersecurity.
+
+💻 What I Do
+
+- 🔐 Always exploring the fascinating world of cybersecurity.
+- 🛠️ Love experimenting with new tools and technologies.
+
+ 🚀 My Interests
+
+- 🌐 Web Security
+- 📡 Network Security
+- 🔍 Penetration Testing
+- 🧠 Ethical Hacking
+
+📫 Get in Touch
+
+- 📧 Email: shahid9036412313@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/mohammed-shahid-22a0aa27b/
+
+ 🤝 Let's Connect!
+
+I'm always open to collaboration and learning from others. If you share a similar interest or just want to connect, feel free to reach out! Let's make the internet a safer place together.
+
