@@ -1,4 +1,4 @@
-# Cybersecurity Enthusiast 👨‍💻
+ Cyber Security Enthusiast 👨‍💻
 
 Hey there! 👋 I'm Mohammed Shahid, a passionate cybersecurity enthusiast and an undergraduate student at Christ Academy Institute Of Advanced Studies.
 
