@@ -21,8 +21,8 @@ Hey there! 👋 I'm Mohammed Shahid, a passionate cybersecurity enthusiast and a
 
 📫 Get in Touch
 
-- 📧 Email: shahid9036412313@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/mohammed-shahid-22a0aa27b/
+- 📧 Email: mdshahidyousuf@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohammedshahidz/
 
  🤝 Let's Connect!
 
