@@ -4,7 +4,7 @@ Hey there! 👋 I'm Mohammed Shahid, a passionate cybersecurity enthusiast and a
 
  🌐 About Me
 
-- 🎓 Currently pursuing my Bachelor's degree in BCA at Christ Academy Institute Of Advanced Studies.
+- 🎓 Graduated my Bachelor's degree in BCA at Christ Academy Institute Of Advanced Studies.
 - 💼 Aspiring to make a mark in the field of cybersecurity.
 
 💻 What I Do
